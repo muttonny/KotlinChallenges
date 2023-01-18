@@ -348,7 +348,7 @@ fun createTriangle(rows: Int, block: String = "#"){
     }
 }
 
-fun main(){
+fun main() {
     //println("Results: ${sequence()}")
     //println("Fibonacci sequence: ${fibonacciGenerator()}")
 
